@@ -7,7 +7,7 @@
 
 > b - alphabet size, N - string length, ASI - assembly index,
 
-> Version: v1 (27.03.2026) 
+> Version: v1 (30.03.2026) 
 
 ## List of files:
 ---
