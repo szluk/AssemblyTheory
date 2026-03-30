@@ -1,5 +1,5 @@
 # Assembly Theory - Formalizing Assembly Spaces, Discovering Patterns and Bounds
-> Wawrzyniec Bieniawski, Andrzej Tomski, Szymon Łukaszyk, Piotr Masierak, Szymon Tworz
+> Wawrzyniec Bieniawski, Szymon Łukaszyk, Piotr Masierak, Andrzej Tomski, Szymon Tworz
 
 > Preprint: https://www.preprints.org/manuscript/202409.1581
 
