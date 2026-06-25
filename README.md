@@ -1,13 +1,18 @@
-# Assembly Theory - Formalizing Assembly Spaces, Discovering Patterns and Bounds
+# Assembly Theory: Formalizing Assembly Spaces, Discovering Patterns and Bounds
 > Wawrzyniec Bieniawski, Szymon Łukaszyk, Piotr Masierak, Andrzej Tomski, Szymon Tworz
 
-> Preprint: https://www.preprints.org/manuscript/202409.1581
+> https://doi.org/10.1098/rsos.260082 (May 2026)
 
-> Publication: (pending Royal Society Open Science - Manuscript ID RSOS-260082)
+# Optimal Joint Assembly Spaces, Assembly Space Energy, and the Evolving Assembly Space of the Universe
+> Szymon Łukaszyk, Piotr Masierak
+
+> https://www.researchgate.net/publication/408016641_Optimal_Joint_Assembly_Spaces_Assembly_Space_Energy_and_the_Evolving_Assembly_Space_of_the_Universe (June 2026)
 
 > b - alphabet size, N - string length, ASI - assembly index,
 
 > Version: v1 (30.03.2026) 
+
+> Version: v2 (25.06.2026) - including the second paper
 
 ## List of files:
 ---
@@ -33,3 +38,11 @@
 * QuickASISolver.exe
 > A Windows console program to calculate the string ASI.
 ---
+* SASI-CASI_N8.xlsx
+> Lists of all ensembles of two bitstrings of length N=8 along with their ASI, SASI, CASI, Dirichlet energy ant other relevant parameters.
+---
+* SASI-CASI_N2-30_b1.md
+> Complete enumeration of all COJAS ω_T and all SOJAS π_T for every pair of unary strings T = {m, n} with |ω_T| < |π_T| for 2 ≤ m < n ≤ 30, including the Dirichlet energy of every space.
+---
+* minimum_ASI_strings_by_plan.md
+> Distinct minimum-ASI strings of length N over an alphabet containing b symbols, broken down by individual shortest addition chain (plan). The last row of each block (in bold) is the union over all plans of that N. The final column gives the count for b = 3.
