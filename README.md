@@ -3,7 +3,7 @@
 
 > https://doi.org/10.1098/rsos.260082 (May 2026)
 
-# Optimal Joint Assembly Spaces, Assembly Space Energy, and the Evolving Assembly Space of the Universe
+# Optimal Joint Assembly Spaces and Assembly Space Energy
 > Szymon Łukaszyk, Piotr Masierak
 
 > https://www.researchgate.net/publication/408016641_Optimal_Joint_Assembly_Spaces_Assembly_Space_Energy_and_the_Evolving_Assembly_Space_of_the_Universe (June 2026)
