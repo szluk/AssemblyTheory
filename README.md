@@ -32,8 +32,8 @@
 > Data for Figure 10 and Table 7 of the paper:
 "The ASI (a), Constrained ASI (b), Re-Pair steps (c), and LZW steps (d) of all bitstrings of length N=10, as a function of their decimal representations ({0, 1, . . . , 1023}), in squares with sides equal to 32 pixels..." 
 ---
-* allN_8-16.xls
-> Lists of all bitstrings of length 8<=N<=16 along with their ASI.
+* allN_2-16.xls
+> Lists of all bitstrings of length 2<=N<=16 along with their ASI.
 ---
 * QuickASISolver.exe
 > A Windows console program to calculate the string ASI.
