@@ -41,8 +41,9 @@
 * SASI-CASI_N8.xlsx
 > Lists of all ensembles of two bitstrings of length N=8 along with their ASI, SASI, CASI, Dirichlet energy and other relevant parameters.
 ---
-* SASI-CASI_N2-30_b1.md
+* SASI-MASI-CASI_N2-30_b1.md
 > Complete enumeration of all COJAS ω_T and all SOJAS π_T for every pair of unary strings T = {m, n} with |ω_T| < |π_T| for 2 ≤ m < n ≤ 30, including the Dirichlet energy of every space.
+(SASI-CASI_N2-30_b1.md is a previous version of this file)
 ---
 * minimum_ASI_strings_by_plan.md
 > Distinct minimum-ASI strings of length N over an alphabet containing b symbols, broken down by individual shortest addition chain (plan). The last row of each block (in bold) is the union over all plans of that N. The final column gives the count for b = 3.
