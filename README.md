@@ -47,3 +47,6 @@
 ---
 * minimum_ASI_strings_by_plan.md
 > Distinct minimum-ASI strings of length N over an alphabet containing b symbols, broken down by individual shortest addition chain (plan). The last row of each block (in bold) is the union over all plans of that N. The final column gives the count for b = 3.
+---
+* delta_canonical_N2-148.md
+> A global decomposition table: for every unary target 2 ≤ N ≤ 148 it gives one unordered decomposition N = a + b. Setting cl(1) = {} and cl(N) = {N} ∪ cl(a) ∪ cl(b), every closure satisfies |cl(N)| = ASI(N) and is therefore an optimal assembly plan of N; this is verifiable from the table alone, in one pass. Since all plans are read off a single table, no step string ever receives two different decompositions, so the closures of the targets of any ensemble whose targets are all at most 148 form a conflict-free choice of individually optimal plans, whose union is a SOJAS.
