@@ -12,6 +12,8 @@
 
 > Version: v2 (25.06.2026) - including the second paper
 
+> Version: v3 (29.07.2026) - including the multiplicity joint assembly spaces
+
 ## List of files:
 ---
 * A003313.xlsx
