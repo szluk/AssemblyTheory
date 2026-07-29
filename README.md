@@ -38,8 +38,9 @@
 * QuickASISolver.exe
 > A Windows console program to calculate the string ASI.
 ---
-* SASI-CASI_N8.xlsx
-> Lists of all ensembles of two bitstrings of length N=8 along with their ASI, SASI, CASI, Dirichlet energy and other relevant parameters.
+* SASI-MASI-CASI_N8_b2.xlsx
+> Lists of all ensembles of two bitstrings of length N=8 along with their ASI, SASI, MASI, CASI, Dirichlet energy and other relevant parameters.
+(SASI-CASI_N8_b2.xlsx is a previous version of this file)
 ---
 * SASI-MASI-CASI_N2-30_b1.md
 > Complete enumeration of all COJAS ω_T and all SOJAS π_T for every pair of unary strings T = {m, n} with |ω_T| < |π_T| for 2 ≤ m < n ≤ 30, including the Dirichlet energy of every space.
