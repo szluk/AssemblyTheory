@@ -8,8 +8,6 @@
 
 > https://doi.org/10.20944/preprints202607.2172.v1 (June 2026)
 
-> b - alphabet size, N - string length, ASI - assembly index,
-
 > Version: v1 (30.03.2026) 
 
 > Version: v2 (25.06.2026) - including the second paper
