@@ -3,12 +3,21 @@
 Canonical global decomposition table on [2,148]: greedy balanced choice among
 optimality-preserving pairs, with the single protected decomposition 9 = 1 + 8.
 Unseeded, the rule completes [2,160] except at 77 and 154 = 2·77; the protection
-repairs both. At 149 no single protected decomposition suffices.
+repairs both. At 149 no single protected decomposition suffices — the obstruction
+being the ensemble T = {43, 77, 149} of Theorem 1.
 
-Verification: for every N in range, the closure of N under the table below
-(cl(N) = {N} ∪ cl(a) ∪ cl(b) for N = a + b, cl(1) = ∅) has exactly ℓ(N) elements,
-the length of the shortest addition chain of N; hence the closures form a
-pairwise consistent family of individually optimal plans (Lemma A1, Proposition A1).
+**Verification.** For every N in range, the closure of N under the table below,
+cl(N) = {N} ∪ cl(a) ∪ cl(b) for the tabulated N = a + b, with cl(1) = ∅, has
+exactly |ω_N| = ASI(N) elements, the length of a shortest addition chain of N.
+Each closure is therefore an optimal assembly plan of its target, and this is
+checkable from the table alone, in one pass.
+
+**What it certifies.** All the plans are read off a single table, so no step
+string ever receives two different decompositions. The restriction of the table
+to the targets of any ensemble whose targets are all at most 148 is therefore a
+clash-free choice of individually optimal plans, whose union is a SOJAS. Hence
+no ensemble with all targets ≤ 148 lacks a SOJAS — the minimality half of
+Theorem 1, whose smallest witness of non-existence is T = {43, 77, 149}.
 
 | N | a + b |
 |---:|:---|
