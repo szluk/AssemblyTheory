@@ -14,6 +14,8 @@
 
 > Version: v3 (29.07.2026) - including the multiplicity joint assembly spaces
 
+> Version: v4 (30.07.2026) - including the UNARY_DB_Viewer
+
 ## List of files:
 ---
 * A003313.xlsx
