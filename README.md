@@ -58,4 +58,5 @@
 > A folder containing an sqlite database of all assembly plans of all unary strings up to N=1000 along with their parameters and the database browser.
 ---
 * Conjectures13
-> A folder containing code refutin conjectures 1 and 3 of 10.3390/math14162950 paper.
+> A folder containing code refuting conjectures 1 and 3 of 10.3390/math14162950 paper.
+
