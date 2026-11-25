@@ -6,7 +6,7 @@
 # Assembly Theory: Optimal Joint Assembly Spaces and Assembly Space Energy
 > Szymon Łukaszyk, Piotr Masierak
 
-> https://doi.org/10.20944/preprints202607.2172.v1 (June 2026)
+> https://doi.org/10.3390/math14162950 (June 2026)
 
 > Version: v1 (30.03.2026) 
 
@@ -56,3 +56,6 @@
 ---
 * UNARY_DB_Viewer
 > A folder containing an sqlite database of all assembly plans of all unary strings up to N=1000 along with their parameters and the database browser.
+---
+* Conjectures13
+> A folder containing code refutin conjectures 1 and 3 of 10.3390/math14162950 paper.
